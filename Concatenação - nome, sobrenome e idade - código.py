@@ -1,0 +1,7 @@
+print("Digite seu nome: ")
+nome = input()
+print("Digite o seu sobrenome ")
+sobrenome = input()
+print("Digite sua idade")
+idade = int(input())
+print("O seu nome é: " + nome + "," + "o seu sobrenome é: " + sobrenome + " e você tem " + str(idade) + "anos")
