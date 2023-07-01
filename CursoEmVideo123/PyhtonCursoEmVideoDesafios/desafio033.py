@@ -26,4 +26,3 @@ if n3 < menor:
 
 print('Dentre os três números informados, o menor número é o: {}'.format(menor))
 
-# Início; sncjdcvneknedjvgnewf
