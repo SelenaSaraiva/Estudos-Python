@@ -26,7 +26,6 @@ print(f'Números sorteados: {numeros}')
 # -------------------------
 
 
-
 # -------------------------
 
 # Def somar os pares;

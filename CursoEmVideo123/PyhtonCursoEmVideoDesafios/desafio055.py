@@ -24,8 +24,6 @@ for c in range(1, 6):
             menorPeso = peso
             nomeMenor = nome
 
-print('\033[4;31mPessoa com maior peso\033[m \n\033[93mNome:\033[m {} \n\033[93mPeso:\033[m {}Kg '.format(nomeMaior,
-                                                                                                          maiorPeso))
+print('\033[4;31mPessoa com maior peso\033[m \n\033[93mNome:\033[m {} \n\033[93mPeso:\033[m {}Kg '.format(nomeMaior,maiorPeso))
 
-print('\033[4;32mPessoa com menor peso\033[m \n\033[93mNome:\033[m {} \n\033[93mPeso:\033[m {}Kg '.format(nomeMenor,
-                                                                                                          menorPeso))
+print('\033[4;32mPessoa com menor peso\033[m \n\033[93mNome:\033[m {} \n\033[93mPeso:\033[m {}Kg '.format(nomeMenor, menorPeso))
